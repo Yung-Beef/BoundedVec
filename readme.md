@@ -1,0 +1,1 @@
+Creating a BoundedVec (normally provided by the Polkadot SDK) as a small rust exercise recommended by Shawn "The Rizzi" Tabrizi
